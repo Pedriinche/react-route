@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .Navbar {
+    background-color: brown;
+  }
+  .justify-content-start{
+    background-color: red;
+  }
